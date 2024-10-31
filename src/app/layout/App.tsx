@@ -98,7 +98,7 @@ const App: React.FC = () => {
           >
             <IconButton
               component={Link}
-              href="https://github.com/noworneverev/iswc-tutorial"
+              href="https://kellm-fit.github.io/ISWC_tutorial_session3/"
               target="_blank"
               rel="noopener"
               color="inherit"
