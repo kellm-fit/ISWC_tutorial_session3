@@ -1,7 +1,7 @@
 {
   "name": "graphrag-visualizer",
   "version": "0.1.0",
-  "homepage": "https://noworneverev.github.io/iswc-tutorial/",
+  "homepage": "https://kellm-fit.github.io/ISWC_tutorial_session3/",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.13.0",
